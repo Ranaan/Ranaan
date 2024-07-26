@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ranaan
-- 👀 I’m interested in UX/UI Design & Front-End Development
+- 👀 I’m interested in T24 Core Banking Development, UX/UI Design & Front-End Development
 - 📫 How to reach me: ranaanhosney3@gmail.com 🚀
 
 <!---
